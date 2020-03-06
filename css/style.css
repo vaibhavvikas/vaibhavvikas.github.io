@@ -8189,7 +8189,7 @@ h1, h2, h3, h4, h5,
     padding-top: .7rem;
     padding-bottom: .7rem; }
     .ftco-navbar-light .navbar-brand:hover, .ftco-navbar-light .navbar-brand:focus {
-      color: #000000 !important; }
+      color: #3e64ff !important; }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-brand {
         color: #fff; } }
@@ -8372,8 +8372,8 @@ h1, h2, h3, h4, h5,
     position: absolute;
     top: 50%;
     left: -12px;
-    width: 40px;
-    height: 40px;
+    width: 0px;
+    height: 0px;
     content: '';
     background: #3e64ff;
     z-index: -1;
