@@ -121,7 +121,7 @@ body {
 }
 .expand {
   animation: cursorAnim3 .5s forwards;
-  border: 6px solid #0056b3;
+  border: 8px solid #0056b3;
 }
 
 /* Cursor End */
