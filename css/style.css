@@ -9194,6 +9194,7 @@ textarea.form-control {
     width: 50px;
     display: block;
     float: left;
+    color: #fff;
     background: rgba(255, 255, 255, 0.1);
     border-radius: 50%;
     position: relative; }
@@ -9206,7 +9207,7 @@ textarea.form-control {
       -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%); }
     .ftco-footer-social li a:hover {
-      color: #fff; }
+      color: #3e64ff; }
 
 .footer-small-nav > li {
   display: inline-block; }
