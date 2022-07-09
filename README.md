@@ -1,4 +1,3 @@
-# vaibhavvikas.github.io
-My Personal Website
+## Vaibhav Vikas
 
-This website was made as I was getting bored in between two major projects!! 
+My portfolio built using [Minimalistic](https://github.com/vaibhavvikas/jekyll-theme-minimalistic).
