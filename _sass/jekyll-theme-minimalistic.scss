@@ -12,6 +12,25 @@ body {
   font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--clr-text);
   font-weight:400;
+  animation: fadein ease-in 1s;
+}
+
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+   opacity: 0.5;
+  }
+
+  75% {
+    opacity: 0.75;
+  }
+  
+  100% {
+    opacity: 1;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -191,9 +210,6 @@ kbd {
   -ms-overflow-style: -ms-autohiding-scrollbar; // IE10+
 }
 
-// Disables the scrollbar in Firefox
-// HTML-Proofer fails without "@-moz-document url-prefix()"
-// because scrollbar-width is still experimental in Firefox.
 @-moz-document url-prefix() {
   .sidebar {
     scrollbar-width: none;
@@ -201,7 +217,6 @@ kbd {
 }
 
 .sidebar::-webkit-scrollbar {
-  /* Chrome, Safari, Edge */
   display: none;
 }
 
@@ -252,7 +267,6 @@ hr {
   color: var(--clr-a-text-hvr);
 }
 
-
 @media print, screen and (max-width: 960px) {
   
   .wrapper {
@@ -293,9 +307,6 @@ hr {
 
   .link-wrapper-mobile {
     display:block !important;
-  }
-
-  .link-wrapper-mobile {
     margin-bottom: 20px;
   }
 
@@ -354,7 +365,6 @@ hr {
   }
 }
 
-
 @media print, screen and (max-width: 480px) {
   body {
     padding:15px;
@@ -368,4 +378,3 @@ hr {
     color:#444;
   }
 }
-
