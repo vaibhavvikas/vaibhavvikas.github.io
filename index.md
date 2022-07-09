@@ -51,7 +51,7 @@ Percentage: 68.73
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);">BNY Mellon Technology Pvt. Ltd</h3>
 <p style="margin:0;"><b>Associate Software Developer</b><br>
 July 2021 - Present</p>
-<ul style="margin-left: -1.5em;">
+<ul style="margin-left: -1.4em;">
   <li>Worked on CCAR on various Python models like CMM (Commercial Mortgage Metrics) and, trigger them via Jupyterhub or Apache Airflow.</li>
   <li>Worked on Data Extractor to create templates and further extract the data from the database using Python, Flask, and Angular.</li>
   <li>Involved in company's private tools for CI/CD, application monitoring, error logging, and server deployment.</li>
@@ -64,7 +64,7 @@ July 2021 - Present</p>
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);">BNY Mellon Technology Pvt. Ltd.</h3>
 <p style="margin:0;"><b>Software Developer Intern</b><br>
 Jan 2021 - June 2021</p>
-<ul style="margin-left: -1.5em;">
+<ul style="margin-left: -1.4em;">
   <li>Worked on CCAR Dashboard to design the end-to-end flow of Model Execution from the UI using Angular.</li>
   <li>Worked on creating Microservices using Flask to get various model details and trigger its execution.</li>
   <li>Worked in different deployment environments (Dev, UAT, Prod).</li>
@@ -73,7 +73,7 @@ Jan 2021 - June 2021</p>
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);">BNY Mellon Technology Pvt. Ltd.</h3>
 <p style="margin:0;"><b>Software Developer Intern</b><br>
 May 2020 - July 2020</p>
-<ul style="margin-left: -1.5em;">
+<ul style="margin-left: -1.4em;">
   <li>Worked on Cognitive Agent to automate various employee related tasks with RASA framework in Python.</li>
   <li>Worked on UI in Angular and Microservices using Java Spring Boot to process the requests.</li>
 </ul>
@@ -101,9 +101,9 @@ Credential Id: MDAP6XXV2QCM</p>
 Comparative Immunology, Microbiology, and Infectious Diseases.<br>
 Volume 86, July 2022, 101815.<br>
 Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.1016/j.cimid.2022.101815</a></p>
-<ul style="margin-left: -1.5em;">
-  <li>Worked on various Python Scripts one of which fetched 2100+ nucleotides sequence from ncbi by its accession number using selenium and beautifulsoup.</li>
-  <li>Worked on various utilities such as generating the heat map using python and d3.js.</li>
+<ul style="margin-left: -1.4em;">
+  <li>Worked on various Python Scripts one of which fetched 2100+ nucleotides sequence from NCBI by its accession number using Selenium and Beautifulsoup.</li>
+  <li>Worked on various utilities such as generating the heat map using Python and d3.js.</li>
 </ul>
 
 ---
@@ -112,14 +112,14 @@ Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.10
 
 <h3 style="margin-bottom:2px;"><a href="https://vaibhavvikas.github.io/housing-price-predictor">Housing Price Prediction</a></h3>
 <p style="margin:0;"><b>Python and Machine Learning</b></p>
-<ul style="margin-left: -1.5em;">
+<ul style="margin-left: -1.4em;">
   <li>A machine learning project based on Kaggle Housing Price Prediction competition using XGBoost. Got a score of 14997.</li>
   <li>The project has all the steps including Preprocessing which fixes missing data and categorical data, and Pipeline which streamlines the process in a single step from fitting and predicting the data.</li>
 </ul>
 
 <h3 style="margin-bottom:2px;"><a href="https://vaibhavvikas.github.io/distributed-cloud">Distributed Cloud (KLA+ Hackathon)</a></h3>
 <p style="margin:0;"><b>Python and Flask</b></p>
-<ul style="margin-left: -1.5em;">
+<ul style="margin-left: -1.4em;">
   <li>A distributed cloud storage like google drive using Flask, where user can store and retrieve any files.</li>
   <li>All files are chunked based on the json provided and stored in servers with load balancing.</li>
   <li>End to End Encryption on chunks to provide extra security.</li>
@@ -131,7 +131,7 @@ Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.10
 
 ## Achievements:
 
-<ul style="margin-left: -1.5em;">
+<ul style="margin-left: -1.4em;">
   <li>Secured AIR 1 in BIT MCA, AIR 3 in NIMCET, AIR 4 in Pune University, and AIR 10 in BHU All India MCA Entrance Exam in 2018.</li>
   <li>Winner, KLA+ Cloud Storage Challenge’20 at NIT Tiruchirappalli.</li>
   <li>Winner, Datathon in Login’19 at PSG College, Coimbatore, Tamil Nadu.</li>

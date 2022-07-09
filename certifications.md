@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**[Home](./#certifications) >> Certifications**
+**[Home](/) >> Certifications**
 
 ## Certifications:
 

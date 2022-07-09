@@ -1,3 +1,7 @@
+{% if site.title %}
+<title>{{ site.title }}</title>
+{% endif %}
+
 <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css">
 
@@ -6,6 +10,6 @@
 
 <!-- You can set your favicon here -->
 {% if site.favicon %}
-  <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+<link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
 {% endif %}
 <!-- end custom head snippets -->
