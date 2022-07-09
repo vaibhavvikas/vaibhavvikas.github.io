@@ -2,11 +2,11 @@
 layout: default
 ---
 ## About Me:
-I am **Vaibhav Vikas**, a software developer from **NIT Trichy, India** 🤘. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.
+I am **Vaibhav Vikas**, a software developer from **NIT Trichy, India**. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.
 
-I am currently working as an **Associate Software Developer** at **BNY Mellon Technology Pvt. Ltd.** (Pune, Maharashtra), where I am working on various CCAR Models such as CMM, CRW.
+I am currently working as **Associate Software Developer** at **BNY Mellon Technology Pvt. Ltd.** (Pune, Maharashtra), where I am working on various CCAR Models such as CMM, CRW.
 
-I developed a keen interest in Machine Learning so I have started studying and implementing different algorithms and analysing various datasets and started competitons on Kaggle.
+I developed a keen interest in Machine Learning so I have started studying and implementing different algorithms and analysing various datasets and started competitions on Kaggle.
 
 ---
 
@@ -18,7 +18,7 @@ August 2018 - July 2021\
 CGPA: 9.14/10.0
 
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);">Bachelors of Science (Hons.) Mathematics</h3>
-<h4 style="margin:0;">P.G.D.A.V. (Eve.) College, University of Delhi</h4>
+<h4 style="margin:0;">P.G.D.A.V. College (Eve.), University of Delhi (DU)</h4>
 July 2014 - June 2017\
 Percentage: 68.73
 
@@ -102,7 +102,7 @@ Comparative Immunology, Microbiology, and Infectious Diseases.<br>
 Volume 86, July 2022, 101815.<br>
 Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.1016/j.cimid.2022.101815</a></p>
 <ul style="margin-left: -1.4em;">
-  <li>Worked on various Python Scripts one of which fetched 2100+ nucleotides sequence from NCBI by its accession number using Selenium and Beautifulsoup.</li>
+  <li>Worked on fetching 2100+ nucleotides sequence from NCBI by its accession number using Python, Selenium and Beautifulsoup.</li>
   <li>Worked on various utilities such as generating the heat map using Python and d3.js.</li>
 </ul>
 
@@ -114,10 +114,10 @@ Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.10
 <p style="margin:0;"><b>Python and Machine Learning</b></p>
 <ul style="margin-left: -1.4em;">
   <li>A machine learning project based on Kaggle Housing Price Prediction competition using XGBoost. Got a score of 14997.</li>
-  <li>The project has all the steps including Preprocessing which fixes missing data and categorical data, and Pipeline which streamlines the process in a single step from fitting and predicting the data.</li>
+  <li>The project has all the steps including Preprocessing which fixes missing data and categorical data, and Pipeline which streamlines the process in a single step from fitting the data and finally predicting the results.</li>
 </ul>
 
-<h3 style="margin-bottom:2px;"><a href="https://vaibhavvikas.github.io/distributed-cloud">Distributed Cloud (KLA+ Hackathon)</a></h3>
+<h3 style="margin-bottom:2px;"><a href="https://vaibhavvikas.github.io/distributed-cloud">Distributed Cloud (KLA+ Hackathon'20)</a></h3>
 <p style="margin:0;"><b>Python and Flask</b></p>
 <ul style="margin-left: -1.4em;">
   <li>A distributed cloud storage like google drive using Flask, where user can store and retrieve any files.</li>
