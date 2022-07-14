@@ -1,12 +1,10 @@
-{% if site.logo %}
-<img class="logo" src="{{ site.logo | relative_url }}" alt="Logo">
-{% endif %}
+<div class="header-title">
+    {% include header-title.html %}
+</div>
 
-<h1>{{ site.title | default: site.github.repository_name }}</h1>
-
-{% if site.email %}
-<p class="addr"><i class="fa-solid fa-envelope"></i>&nbsp;&nbsp;<a href="mailto:{{site.email}}">{{ site.email }}</a></p>
-{% endif %}
+<div class="header-title-mobile">
+    {% include header-title-mobile.html %}
+</div>
 
 <p>{{ site.description | default: site.github.project_tagline }}</p>
 

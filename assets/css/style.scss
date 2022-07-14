@@ -6,7 +6,7 @@
 .logo {
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
-    border-radius: 100%; 
+    border-radius: 100%;
     margin-bottom: 10px;
 }
 
@@ -59,11 +59,16 @@
   font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 720px){
   .box {
     width: 70%;
   }
+
   .popup {
     width: 70%;
+  }
+
+  .logo {
+    margin-bottom: 0px;
   }
 }

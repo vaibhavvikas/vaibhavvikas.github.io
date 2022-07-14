@@ -22,9 +22,9 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/vaibhavvikas
-  - name: Certifications
-    icon: <i class="fa-solid fa-award"></i>
-    link: ./certifications.html
   - name: Projects
     icon: <i class="fa-solid fa-file-code"></i>
     link: ./projects.html
+  - name: Certifications
+    icon: <i class="fa-solid fa-award"></i>
+    link: ./certifications.html
