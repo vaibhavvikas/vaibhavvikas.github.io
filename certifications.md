@@ -3,8 +3,6 @@ layout: default
 ---
 **[Home](/) >> Certifications**
 
----
-
 ## Certifications:
 
 <h3 style="margin-bottom:2px;"><a href="https://coursera.org/verify/specialization/5JHL6J6K4EKL">Python Specialization</a></h3>

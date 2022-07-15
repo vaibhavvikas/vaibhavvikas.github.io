@@ -3,8 +3,6 @@ layout: default
 ---
 **[Home](/) >> Projects**
 
----
-
 ## Projects:
 
 <h3 style="margin-bottom:2px;"><a href="https://vaibhavvikas.github.io/housing-price-predictor/">Housing Price Prediction</a></h3>
