@@ -2,6 +2,7 @@
 layout: default
 ---
 **[Home](/) >> Projects**
+---
 
 ## Projects:
 
