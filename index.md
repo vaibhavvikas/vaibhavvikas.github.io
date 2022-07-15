@@ -13,12 +13,12 @@ I developed a keen interest in Machine Learning so I have started studying and i
 
 ## Education:
 
-<h3 style="margin-bottom:2px; color:var(--clr-a-text);">Master of Computer Applications</h3>
+<h3 style="margin-bottom:2px;">Master of Computer Applications</h3>
 <h4 style="margin:0;">National Institute of Technology, Tiruchirappalli (NIT Trichy)</h4>
 August 2018 - July 2021\
 CGPA: 9.14/10.0
 
-<h3 style="margin-bottom:2px; color:var(--clr-a-text);">Bachelors of Science (Hons.) Mathematics</h3>
+<h3 style="margin-bottom:2px;">Bachelors of Science (Hons.) Mathematics</h3>
 <h4 style="margin:0;">P.G.D.A.V. College (Eve.), University of Delhi (DU)</h4>
 July 2014 - June 2017\
 Percentage: 68.73%
@@ -27,29 +27,29 @@ Percentage: 68.73%
 
 ## Skills:
 
-<h4 style="margin-bottom:2px; margin-top:2px; color:var(--clr-a-text);">Programming Languages:</h4>
+<h4 style="margin-bottom:2px;">Programming Languages:</h4>
 <p style="margin-bottom:4px;">&#x2022; Python &#x2022; Java &#x2022; C/C++</p>
 
-<h4 style="margin-bottom:2px; margin-top:2px; color:var(--clr-a-text);">Data Science:</h4>
+<h4 style="margin-bottom:2px; margin-top:2px;">Data Science:</h4>
 <p style="margin-bottom:4px;">&#x2022; Machine Learning</p>
 
-<h4 style="margin-bottom:2px; margin-top:2px; color:var(--clr-a-text);">Frameworks:</h4>
+<h4 style="margin-bottom:2px; margin-top:2px;">Frameworks:</h4>
 <p style="margin-bottom:4px;">&#x2022; Sklearn &#x2022; Pandas &#x2022; NumPy</p>
 
-<h4 style="margin-bottom:2px; margin-top:2px; color:var(--clr-a-text);">Web Frameworks:</h4>
+<h4 style="margin-bottom:2px; margin-top:2px;">Web Frameworks:</h4>
 <p style="margin-bottom:4px;">&#x2022; Flask &#x2022; Angular &#x2022; Angular Material</p>
 
-<h4 style="margin-bottom:2px; margin-top:2px; color:var(--clr-a-text);">Operating Systems:</h4>
+<h4 style="margin-bottom:2px; margin-top:2px;">Operating Systems:</h4>
 <p style="margin-bottom:4px;">&#x2022; Windows &#x2022; Linux (Ubuntu, Red Hat) &#x2022; Mac OS</p>
 
-<h4 style="margin-bottom:2px; margin-top:2px; color:var(--clr-a-text);">Others:</h4>
+<h4 style="margin-bottom:2px; margin-top:2px;">Others:</h4>
 <p style="margin-bottom:20px;">&#x2022; Git &#x2022; GitLab &#x2022; Github &#x2022; CI/CD &#x2022; Docker</p>
 
 ---
 
 ## Professional Experience:
 
-<h3 style="margin-bottom:2px; color:var(--clr-a-text);">BNY Mellon Technology Pvt. Ltd</h3>
+<h3 style="margin-bottom:2px;">BNY Mellon Technology Pvt. Ltd</h3>
 <p style="margin:0;"><b>Associate Software Developer</b><br>
 July 2021 - Present</p>
 <ul style="margin-left: -1.4em;">
@@ -62,7 +62,7 @@ July 2021 - Present</p>
   
 ## Internships:
 
-<h3 style="margin-bottom:2px; color:var(--clr-a-text);">BNY Mellon Technology Pvt. Ltd.</h3>
+<h3 style="margin-bottom:2px;">BNY Mellon Technology Pvt. Ltd.</h3>
 <p style="margin:0;"><b>Software Developer Intern</b><br>
 Jan 2021 - June 2021</p>
 <ul style="margin-left: -1.4em;">
@@ -71,7 +71,7 @@ Jan 2021 - June 2021</p>
   <li>Worked in different deployment environments (Dev, UAT, Prod).</li>
 </ul>  
   
-<h3 style="margin-bottom:2px; color:var(--clr-a-text);">BNY Mellon Technology Pvt. Ltd.</h3>
+<h3 style="margin-bottom:2px;">BNY Mellon Technology Pvt. Ltd.</h3>
 <p style="margin:0;"><b>Software Developer Intern</b><br>
 May 2020 - July 2020</p>
 <ul style="margin-left: -1.4em;">
@@ -132,10 +132,18 @@ Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.10
 
 ## Achievements:
 
+<h4 style="margin-bottom:5px;">Academic Achievements:</h4>
 <ul style="margin-left: -1.4em;">
   <li>Secured AIR 1 in BIT MCA, AIR 3 in NIMCET, AIR 4 in Pune University, and AIR 10 in BHU All India MCA Entrance Exam in 2018.</li>
   <li>Winner, KLA+ Cloud Storage Challenge’20 at NIT Tiruchirappalli.</li>
   <li>Winner, Datathon in Login’19 at PSG College, Coimbatore, Tamil Nadu.</li>
   <li>Secured 2nd Position in Al-Go-Code in Login’19 at PSG College, Coimbatore, Tamil Nadu.</li>
-  <li>Secured 2nd Position in Graffiti Designing, and 2nd Position in Wall Painting in NITTFEST’19 at NIT Tiruchirappalli.</li>
+  <li>Secured 2nd Position in Weave-o-Web in Infotrek’19 at NIT Trichy.</li>
+</ul>
+
+<h4 style="margin-bottom:5px;">Extra Curricular Activities:</h4>
+<ul style="margin-left: -1.4em;">
+  <li>Secured 2nd Position in Graffiti Designing in NITTFEST’19 at NIT Tiruchirappalli.</li>
+  <li>Secured 2nd Position in Wall Painting in NITTFEST’19 at NIT Tiruchirappalli.</li>
+  <li>Secured 2nd Position in Group Street Dance in Rendezvous’14 at IIT Delhi.</li>
 </ul>
