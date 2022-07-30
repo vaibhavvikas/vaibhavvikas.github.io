@@ -6,6 +6,8 @@ favicon: true
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: auto
 
+google_analytics: G-0RXV630V8X
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -24,7 +26,10 @@ platforms:
     link: https://www.linkedin.com/in/vaibhavvikas
   - name: Projects
     icon: <i class="fa-solid fa-file-code"></i>
-    link: ./projects.html
+    link: ./projects
   - name: Certifications
     icon: <i class="fa-solid fa-award"></i>
-    link: ./certifications.html
+    link: ./certifications
+  - name: Open Source
+    icon: <i class="fa-solid fa-ghost"></i>
+    link: ./open-source

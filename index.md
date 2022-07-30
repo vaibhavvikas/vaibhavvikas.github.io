@@ -4,9 +4,7 @@ layout: default
 ## About Me:
 
 I am **Vaibhav Vikas**, a software developer from **NIT Trichy, India**. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.
-
 I am currently working as **Associate Software Developer** at **BNY Mellon Technology Pvt. Ltd.** (Pune, Maharashtra), where I am working on various CCAR Models such as CMM, CRW.
-
 I developed a keen interest in Machine Learning so I have started studying and implementing different algorithms and analysing various datasets and started competitions on Kaggle.
 
 ---
@@ -83,36 +81,48 @@ May 2020 - July 2020</p>
 
 ## Projects:
 
-<h3 style="margin-bottom:2px;"><a href="https://vaibhavvikas.github.io/housing-price-predictor">Housing Price Prediction</a></h3>
-<p style="margin:0;"><b>Python and Machine Learning</b></p>
-<ul style="margin-left: -1.4em;">
-  <li>A machine learning project based on Kaggle Housing Price Prediction competition using XGBoost. Got a score of 14997.</li>
-  <li>The project has all the steps including Preprocessing which fixes missing data and categorical data, and Pipeline which streamlines the process in a single step from fitting the data and finally predicting the results.</li>
-</ul>
+<div class="card">
+  <h3>Housing Price Prediction</h3>
+  <p><b>Python and Machine Learning</b></p>
+  <ul>
+    <li>A machine learning project based on Kaggle Housing Price Prediction competition using XGBoost. Got a score of 14997.</li>
+    <li>The project has all the steps including Preprocessing which fixes missing data and categorical data, and Pipeline which streamlines the process in a single step from fitting and predicting the data.</li>
+  </ul>
+  <a href="https://vaibhavvikas.ml/housing-price-predictor/"><span class="card-link-spanner"></span></a>
+</div>
 
-<h3 style="margin-bottom:2px;"><a href="https://vaibhavvikas.github.io/distributed-cloud">Distributed Cloud (KLA+ Hackathon'20)</a></h3>
-<p style="margin:0;"><b>Python and Flask</b></p>
-<ul style="margin-left: -1.4em;">
-  <li>A distributed cloud storage like google drive using Flask, where user can store and retrieve any files.</li>
-  <li>All files are chunked based on the json provided and stored in servers with load balancing.</li>
-  <li>End to End Encryption on chunks to provide extra security.</li>
-</ul>
+<div class="card">
+  <h3>Distributed Cloud (KLA+ Hackathon'20)</h3>
+  <p><b>Python and Flask</b></p>
+  <ul>
+    <li>A distributed cloud storage like google drive using Flask, where user can store and retrieve any files.</li>
+    <li>All files are chunked based on the json provided and stored in servers with load balancing.</li>
+    <li>End to End Encryption on chunks to provide extra security.</li>
+  </ul>
+  <a href="https://vaibhavvikas.ml/distributed-cloud"><span class="card-link-spanner"></span></a>
+</div>
 
-[... See all projects](./projects.html)
+[... See all projects](./projects)
 
 ---
 
 ## Certifications:
 
-<h3 style="margin-bottom:2px;"><a href="https://coursera.org/verify/specialization/5JHL6J6K4EKL">Python Specialization</a></h3>
-<p><b>Coursera</b>, August 2020<br>
-Credential Id: 5JHL6J6K4EKL</p>
+<div class="card">
+  <h3>Python Specialization</h3>
+  <p><b>Coursera</b>, August 2020<br>
+  Credential Id: 5JHL6J6K4EKL</p>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/5JHL6J6K4EKL"><span class="card-link-spanner"></span></a>
+</div>
 
-<h3 style="margin-bottom:2px;"><a href="https://coursera.org/verify/MDAP6XXV2QCM">Algorithmic Toolbox</a></h3>
-<p><b>Coursera</b>, June 2022<br>
-Credential Id: MDAP6XXV2QCM</p>
+<div class="card">
+  <h3>Algorithmic Toolbox</h3>
+  <p><b>Coursera</b>, June 2022<br>
+  Credential Id: MDAP6XXV2QCM</p>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/MDAP6XXV2QCM"><span class="card-link-spanner"></span></a>
+</div>
 
-[... See all certifications](./certifications.html)
+[... See all certifications](./certifications)
 
 ---
 
