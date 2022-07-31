@@ -7,7 +7,7 @@ permalink: /open-source
 ## Open Source Contributions:
 
 <div class="card">
-  <h3">Minimalistic Jekyll Theme</h3>
+  <h3>Minimalistic Jekyll Theme</h3>
   <p><b>Ruby, Jekyll and Github Pages</b></p>
   <ul>
     <li>A Jekyll theme built using gh-pages Minimal theme.</li>
