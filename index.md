@@ -3,8 +3,10 @@ layout: default
 ---
 ## About Me:
 
-I am **Vaibhav Vikas**, a software developer from **NIT Trichy, India**. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.<br>
-I am currently working as **Associate Software Developer** at **BNY Mellon Technology Pvt. Ltd.** (Pune, Maharashtra), where I am working on various CCAR Models such as CMM, CRW.<br>
+I am **Vaibhav Vikas**, a software developer from **NIT Trichy, India**. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.
+
+I am currently working as **Associate Software Developer** at **BNY Mellon Technology Pvt. Ltd.** (Pune, Maharashtra), where I am working on various CCAR Models such as CMM, CRW.
+
 I developed a keen interest in Machine Learning so I have started studying and implementing different algorithms and analysing various datasets and started competitions on Kaggle.
 
 ---
