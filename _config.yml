@@ -8,11 +8,13 @@ color-scheme: auto
 
 google_analytics: G-0RXV630V8X
 
+url: "https://vaibhavvikas.ml/"
+
 plugins:
-  - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 platforms:
   - name: Résumé
