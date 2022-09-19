@@ -79,3 +79,14 @@ permalink: /projects
   </ul>
   <a href="https://vaibhavvikas.ml/choppy-copter"><span class="card-link-spanner"></span></a>
 </div>
+
+<div class="card">
+  <h3>Snakes & Ladders (Machine Coding)</h3>
+  <p><b>Python</b></p>
+  <ul>
+    <li>A Snakes and Ladders game built using python, using various OOAD principles.</li>
+    <li>The application takes input from the user with various options such as number of snakes, ladders, different types of dice etc.</li>
+    <li>Also added unit testing to some of the methods.</li>
+  </ul>
+  <a href="https://vaibhavvikas.ml/snake-ladder"><span class="card-link-spanner"></span></a>
+</div>
