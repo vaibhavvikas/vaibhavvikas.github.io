@@ -3,9 +3,9 @@ layout: default
 ---
 ## About Me:
 
-I am **Vaibhav Vikas**, a software developer from **NIT Trichy, India**. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.
+I am **Vaibhav Vikas**, a software developer from **NIT Trichy, India**. I have a great experience in Python, Go, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
 
-I am currently working as **Associate Software Developer** at **BNY Mellon Technology Pvt. Ltd.** (Pune, Maharashtra), where I am working on various CCAR Models such as CMM, CRW.
+I am currently a **Software Developer Engineer** at **Open Financial Technologies Pvt. Ltd.** (Bengaluru, Karnataka), where I am working on [Zwitch](https://www.zwitch.io/).
 
 I developed a keen interest in Machine Learning so I have started studying and implementing different algorithms and analysing various datasets and started competitions on Kaggle.
 
@@ -28,16 +28,16 @@ Percentage: 68.73%
 ## Skills:
 
 <h4 style="margin-bottom:2px;">Programming Languages:</h4>
-<p style="margin-bottom:4px;">&#x2022; Python &#x2022; Java &#x2022; C/C++</p>
+<p style="margin-bottom:4px;">&#x2022; Python &#x2022; Go &#x2022; Java</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Data Science:</h4>
 <p style="margin-bottom:4px;">&#x2022; Machine Learning</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Frameworks:</h4>
-<p style="margin-bottom:4px;">&#x2022; Sklearn &#x2022; Pandas &#x2022; NumPy</p>
+<p style="margin-bottom:4px;">&#x2022; Gorm &#x2022; Sklearn &#x2022; Pandas &#x2022; NumPy</p>
 
-<h4 style="margin-bottom:2px; margin-top:2px;">Web Frameworks:</h4>
-<p style="margin-bottom:4px;">&#x2022; Flask &#x2022; Angular &#x2022; Angular Material</p>
+<h4 style="margin-bottom:2px; margin-top:2px;">Web Frameworks & Libraries:</h4>
+<p style="margin-bottom:4px;">&#x2022; Flask &#x2022; Gin &#x2022; Angular &#x2022; Angular Material</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Operating Systems:</h4>
 <p style="margin-bottom:4px;">&#x2022; Windows &#x2022; Linux (Ubuntu, Red Hat) &#x2022; Mac OS</p>
@@ -49,9 +49,16 @@ Percentage: 68.73%
 
 ## Professional Experience:
 
-<h3 style="margin-bottom:2px;">BNY Mellon Technology Pvt. Ltd</h3>
+<h3 style="margin-bottom:2px;">Open Financial Technologies Pvt. Ltd.</h3>
+<p style="margin:0;"><b>Software Developer Engineer</b><br>
+September 2022 - Present</p>
+<ul style="margin-left: -1.4em;">
+  <li>Working on KYC Microservices implementation on Zwitch Platform using Go, Gin and Gorm.</li>
+</ul>
+
+<h3 style="margin-bottom:2px;">BNY Mellon Technology Pvt. Ltd.</h3>
 <p style="margin:0;"><b>Associate Software Developer</b><br>
-July 2021 - Present</p>
+July 2021 - September 2022</p>
 <ul style="margin-left: -1.4em;">
   <li>Worked on CCAR on various Python models like CMM (Commercial Mortgage Metrics) and, trigger them via Jupyterhub or Apache Airflow.</li>
   <li>Worked on Data Extractor to create templates and further extract the data from the database using Python, Flask, and Angular.</li>
@@ -111,17 +118,17 @@ May 2020 - July 2020</p>
 ## Certifications:
 
 <div class="card">
+  <h3>Google Go Specialization</h3>
+  <p><b>Coursera</b>, October 2022<br>
+  Credential Id: XPZSRCAJNPX2</p>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/XPZSRCAJNPX2"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Python Specialization</h3>
   <p><b>Coursera</b>, August 2020<br>
   Credential Id: 5JHL6J6K4EKL</p>
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/5JHL6J6K4EKL"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
-  <h3>Algorithmic Toolbox</h3>
-  <p><b>Coursera</b>, June 2022<br>
-  Credential Id: MDAP6XXV2QCM</p>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/MDAP6XXV2QCM"><span class="card-link-spanner"></span></a>
 </div>
 
 [... See all certifications](./certifications)
