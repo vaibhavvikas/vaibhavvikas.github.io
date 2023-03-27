@@ -53,14 +53,15 @@ Percentage: 68.73%
 <p style="margin:0;"><b>Software Developer Engineer</b><br>
 September 2022 - Present</p>
 <ul style="margin-left: -1.4em;">
-  <li>Working on KYC Microservices implementation on Zwitch Platform using Go, Gin and Gorm.</li>
+  <li>Currently developing embedded finance solutions on Cards, KYC, and Lending Microservices using Go, Gin, and Gorm for <a href="https://www.zwitch.io/">Zwitch</a>, a cutting-edge no-code fintech platform.</li>
+  <li>Owned and developed the Cards Microservices, overseeing all APIs related to credit, debit and prepaid cards creation, activation, blocking/unblocking, transactions, reversals, and settlements.</li>
 </ul>
 
 <h3 style="margin-bottom:2px;">BNY Mellon Technology Pvt. Ltd.</h3>
 <p style="margin:0;"><b>Associate Software Developer</b><br>
 July 2021 - September 2022</p>
 <ul style="margin-left: -1.4em;">
-  <li>Worked on CCAR on various Python models like CMM (Commercial Mortgage Metrics) and, trigger them via Jupyterhub or Apache Airflow.</li>
+  <li>Worked on CCAR on various Python Risk Models like CMM (Commercial Mortgage Metrics) and, their workflow implementation via Apache Airflow.</li>
   <li>Worked on Data Extractor to create templates and further extract the data from the database using Python, Flask, and Angular.</li>
   <li>Involved in company's private tools for CI/CD, application monitoring, error logging, and server deployment.</li>
 </ul>
