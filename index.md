@@ -28,22 +28,25 @@ Percentage: 68.73%
 ## Skills:
 
 <h4 style="margin-bottom:2px;">Programming Languages:</h4>
-<p style="margin-bottom:4px;">&#x2022; Python &#x2022; Go &#x2022; Java</p>
+<p style="margin-bottom:4px;">&#x2022; Python &#x2022; Java &#x2022; Go</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Data Science:</h4>
 <p style="margin-bottom:4px;">&#x2022; Machine Learning</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Frameworks:</h4>
-<p style="margin-bottom:4px;">&#x2022; Gorm &#x2022; Sklearn &#x2022; Pandas &#x2022; NumPy</p>
+<p style="margin-bottom:4px;">&#x2022; Apache Airflow &#x2022; Sklearn &#x2022; Pandas &#x2022; NumPy</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Web Frameworks & Libraries:</h4>
-<p style="margin-bottom:4px;">&#x2022; Flask &#x2022; Gin &#x2022; Angular &#x2022; Angular Material</p>
+<p style="margin-bottom:4px;">&#x2022; Flask &#x2022; Spring &#x2022; Gin &#x2022; Gorm &#x2022; Angular &#x2022; Angular Material</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Operating Systems:</h4>
 <p style="margin-bottom:4px;">&#x2022; Windows &#x2022; Linux (Ubuntu, Red Hat) &#x2022; Mac OS</p>
 
+<h4 style="margin-bottom:2px; margin-top:2px;">Databases:</h4>
+<p style="margin-bottom:4px;">&#x2022; PostgreSQL</p>
+
 <h4 style="margin-bottom:2px; margin-top:2px;">Others:</h4>
-<p style="margin-bottom:20px;">&#x2022; Git &#x2022; GitLab &#x2022; Github &#x2022; CI/CD &#x2022; Docker</p>
+<p style="margin-bottom:20px;">&#x2022; Git &#x2022; GitLab &#x2022; Github &#x2022; CI/CD &#x2022; Redis &#x2022; Docker</p>
 
 ---
 
