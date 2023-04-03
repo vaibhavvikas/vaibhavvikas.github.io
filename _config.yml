@@ -19,7 +19,7 @@ plugins:
 platforms:
   - name: Résumé
     icon: <i class="fa-solid fa-file-lines"></i>
-    link: ./assets/files/vaibhav_vikas_resume.pdf
+    link: ./assets/files/vaibhav_vikas.pdf
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/vaibhavvikas
