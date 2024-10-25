@@ -8,7 +8,7 @@ color-scheme: light
 
 google_analytics: G-0RXV630V8X
 
-url: "https://vaibhavvikas.ml/"
+url: "https://vaibhavvikas.github.io/"
 
 plugins:
   - jekyll-seo-tag
@@ -17,9 +17,6 @@ plugins:
   - jekyll-sitemap
 
 platforms:
-  - name: Résumé
-    icon: <i class="fa-solid fa-file-lines"></i>
-    link: ./assets/files/vaibhav_vikas.pdf
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/vaibhavvikas

@@ -3,9 +3,7 @@ layout: default
 ---
 ## About Me:
 
-I am **Vaibhav Vikas**, a software developer from **NIT Trichy, India**. I have a great experience in Python, Go, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
-
-I am currently a **Software Developer Engineer** at **Open Financial Technologies Pvt. Ltd.** (Bengaluru, Karnataka), where I am working on [Zwitch](https://www.zwitch.io/).
+I am **Vaibhav Vikas**, a software developer from **New Delhi, India**. I have completed Master from **NIT Trichy, India**. I have a great experience in Python, Go, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
 
 I developed a keen interest in Machine Learning so I have started studying and implementing different algorithms and analysing various datasets and started competitions on Kaggle.
 
@@ -28,7 +26,7 @@ Percentage: 68.73%
 ## Skills:
 
 <h4 style="margin-bottom:2px;">Programming Languages:</h4>
-<p style="margin-bottom:4px;">&#x2022; Python &#x2022; Java &#x2022; Go</p>
+<p style="margin-bottom:4px;">&#x2022; Python &#x2022; Go &#x2022; Java</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Data Science:</h4>
 <p style="margin-bottom:4px;">&#x2022; Machine Learning</p>
@@ -46,11 +44,29 @@ Percentage: 68.73%
 <p style="margin-bottom:4px;">&#x2022; PostgreSQL</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Others:</h4>
-<p style="margin-bottom:20px;">&#x2022; Git &#x2022; GitLab &#x2022; Github &#x2022; CI/CD &#x2022; Redis &#x2022; Docker</p>
+<p style="margin-bottom:20px;">&#x2022; Git &#x2022; GitLab &#x2022; Github &#x2022; CI/CD &#x2022; Redis &#x2022; AWS &#x2022; GCP &#x2022; Docker</p>
 
 ---
 
 ## Professional Experience:
+
+<h3 style="margin-bottom:2px;">NTUC Enterprise</h3>
+<p style="margin:0;"><b>Software Developer Engineer</b><br>
+July 2023 - Present</p>
+<ul style="margin-left: -1.4em;">
+  <li>Delivered OCBC bank account linking for GIRO setup, enabling over 20K+ users to seamlessly link accounts.</li>
+  <li>Implemented a discount module for percentage-based and fixed-rate discounts, resulting in real-time invoicing adjustments benefiting over 40K+ users across the platform.</li>
+  <li>Created essential cron jobs (Missing Bank Account Reminder, HHI Report, Linkpoint Reward), automating tasks and
+saving 100+ hours weekly.</li>
+</ul>
+
+<h3 style="margin-bottom:2px;">Logfire.ai</h3>
+<p style="margin:0;"><b>Software Developer Engineer</b><br>
+May 2023 - July 2023</p>
+<ul style="margin-left: -1.4em;">
+  <li>Architected and developed a fully interactable <a href="https://github.com/logfire-ai/cli">logfire-clie</a> from scratch, leveraging Factory pattern. Also packaged and added brew tap and scoop installation for the cli.</li>
+  <li>Worked on logfire Backend to integrate kafka consumer, SQL Autocompletion and other features and improvements to middlewares.</li>
+</ul>
 
 <h3 style="margin-bottom:2px;">Open Financial Technologies Pvt. Ltd.</h3>
 <p style="margin:0;"><b>Software Developer Engineer</b><br>
@@ -101,7 +117,7 @@ May 2020 - July 2020</p>
     <li>A machine learning project based on Kaggle Housing Price Prediction competition using XGBoost. Got a score of 14997.</li>
     <li>The project has all the steps including Preprocessing which fixes missing data and categorical data, and Pipeline which streamlines the process in a single step from fitting and predicting the data.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/housing-price-predictor/"><span class="card-link-spanner"></span></a>
+  <a href="https://vaibhavvikas.github.io/housing-price-predictor/"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -112,7 +128,7 @@ May 2020 - July 2020</p>
     <li>All files are chunked based on the json provided and stored in servers with load balancing.</li>
     <li>End to End Encryption on chunks to provide extra security.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/distributed-cloud"><span class="card-link-spanner"></span></a>
+  <a href="https://vaibhavvikas.github.io/distributed-cloud"><span class="card-link-spanner"></span></a>
 </div>
 
 [... See all projects](./projects)

@@ -7,13 +7,24 @@ permalink: /projects
 ## Projects:
 
 <div class="card">
+  <h3>Logfire-cli</h3>
+  <p><b>Go</b></p>
+  <ul>
+    <li>A fully interactive command line interface to access logs streaming and other features directly from terminal.</li>
+    <li>Used factory pattern to analyze which type of terminal the cli is running on based on that enabled or disabled interactive features.</li>
+    <li>Added scoop and brew installation pacakges.</li>
+  </ul>
+  <a href="https://github.com/logfire-ai/cli"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Housing Price Prediction</h3>
   <p><b>Python and Machine Learning</b></p>
   <ul>
     <li>A machine learning project based on Kaggle Housing Price Prediction competition using XGBoost. Got a score of 14997.</li>
     <li>The project has all the steps including Preprocessing which fixes missing data and categorical data, and Pipeline which streamlines the process in a single step from fitting and predicting the data.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/housing-price-predictor/"><span class="card-link-spanner"></span></a>
+  <a href="https://vaibhavvikas.github.io/housing-price-predictor/"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -24,7 +35,7 @@ permalink: /projects
     <li>All files are chunked based on the json provided and stored in servers with load balancing.</li>
     <li>End to End Encryption on chunks to provide extra security.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/distributed-cloud"><span class="card-link-spanner"></span></a>
+  <a href="https://vaibhavvikas.github.io/distributed-cloud"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -35,7 +46,7 @@ permalink: /projects
     <li>Implemented APIs for user registration and shorten the URL either by registered user or Anonymous.</li>
     <li>Built the application using OOPs concepts and also implemented appropriate exception handling and CI/CD.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/url-shortner"><span class="card-link-spanner"></span></a>
+  <a href="https://vaibhavvikas.github.io/url-shortner"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -45,7 +56,7 @@ permalink: /projects
     <li>An augmented reality treasure hunt game which gives a clue to the person on scanning specific image targets.</li>
     <li>The application has 3D Maps using Mapbox and AR using Vuforia engine.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/mystery-maze"><span class="card-link-spanner"></span></a>
+  <a href="https://vaibhavvikas.github.io/mystery-maze"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -56,7 +67,7 @@ permalink: /projects
     <li>It shows all the species along with their predators and prey in visual format as graph.</li>
     <li>In case of Disasters such as forest fires, we can register deaths of certain species which in tell which species are getting affected.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/food-web"><span class="card-link-spanner"></span></a>
+  <a href="https://vaibhavvikas.github.io/food-web"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -67,7 +78,7 @@ permalink: /projects
     <li>The application is built using RASA framework, which is built using Keras and trains the model based on various user stories.</li>
     <li>The Chatbot GUI is built using React, where user interacts and type their questions and get queries. The application also shows realtime count of infected people in a particular state or country.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/covid19chatbot"><span class="card-link-spanner"></span></a>
+  <a href="https://vaibhavvikas.github.io/covid19chatbot"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -77,7 +88,7 @@ permalink: /projects
     <li>A Java game built using libgdx, where user need to fly the copter preventing it from hitting the obstacles.</li>
     <li>The application has realtime score tracking, where the user's high score are updated to database.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/choppy-copter"><span class="card-link-spanner"></span></a>
+  <a href="https://vaibhavvikas.github.io/choppy-copter"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
@@ -88,5 +99,5 @@ permalink: /projects
     <li>The application takes input from the user with various options such as number of snakes, ladders, different types of dice etc.</li>
     <li>Also added unit testing to some of the methods.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/snake-ladder"><span class="card-link-spanner"></span></a>
+  <a href="https://vaibhavvikas.github.io/snake-ladder"><span class="card-link-spanner"></span></a>
 </div>
